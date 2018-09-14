@@ -1,0 +1,33 @@
+C:\Users\USER\source\repos\ConsoleApp1\SocketCS\bin\Debug\SocketCS.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\SocketCS\bin\Debug\SocketCS.exe
+C:\Users\USER\source\repos\ConsoleApp1\SocketCS\bin\Debug\SocketCS.pdb
+C:\Users\USER\source\repos\ConsoleApp1\SocketCS\obj\Debug\SocketCS.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\SocketCS\obj\Debug\SocketCS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\SocketCS\obj\Debug\SocketCS.exe
+C:\Users\USER\source\repos\ConsoleApp1\SocketCS\obj\Debug\SocketCS.pdb
+C:\Users\USER\source\repos\SocketCS\SocketCS\bin\Debug\SocketCS.exe.config
+C:\Users\USER\source\repos\SocketCS\SocketCS\bin\Debug\SocketCS.exe
+C:\Users\USER\source\repos\SocketCS\SocketCS\bin\Debug\SocketCS.pdb
+C:\Users\USER\source\repos\SocketCS\SocketCS\obj\Debug\SocketCS.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SocketCS\SocketCS\obj\Debug\SocketCS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SocketCS\SocketCS\obj\Debug\SocketCS.exe
+C:\Users\USER\source\repos\SocketCS\SocketCS\obj\Debug\SocketCS.pdb
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\bin\Debug\SocketCS.exe.config
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\bin\Debug\SocketCS.exe
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\bin\Debug\SocketCS.pdb
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\bin\Debug\NKH.MindSqualls.dll
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\bin\Debug\WinUsbWrapper.dll
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\obj\Debug\SocketCS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\obj\Debug\SocketCS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\obj\Debug\SocketCS.csproj.CopyComplete
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\obj\Debug\SocketCS.exe
+C:\Users\user\Desktop\Tetrix & EV3\Combined_test\8-6CS-CP\SocketCS\SocketCS\obj\Debug\SocketCS.pdb
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\bin\Debug\SocketCS.exe.config
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\bin\Debug\SocketCS.exe
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\bin\Debug\SocketCS.pdb
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\bin\Debug\WinUsbWrapper.dll
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\obj\Debug\SocketCS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\obj\Debug\SocketCS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\obj\Debug\SocketCS.csproj.CopyComplete
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\obj\Debug\SocketCS.exe
+C:\Users\user\Desktop\Tetrix & EV3\SocketCS\SocketCS\obj\Debug\SocketCS.pdb
